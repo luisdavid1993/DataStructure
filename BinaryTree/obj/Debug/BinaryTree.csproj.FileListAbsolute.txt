@@ -1,0 +1,12 @@
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\BinaryTree\obj\Debug\BinaryTree.pdb
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\BinaryTree\obj\Debug\BinaryTree.csprojAssemblyReference.cache
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\BinaryTree\obj\Debug\BinaryTree.pdb

@@ -1,0 +1,12 @@
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\TreeDinamic\bin\Debug\TreeDinamic.exe.config
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\TreeDinamic\bin\Debug\TreeDinamic.exe
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\TreeDinamic\bin\Debug\TreeDinamic.pdb
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\TreeDinamic\obj\Debug\TreeDinamic.csprojAssemblyReference.cache
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\TreeDinamic\obj\Debug\TreeDinamic.exe
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\TreeDinamic\obj\Debug\TreeDinamic.pdb
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\TreeDinamic\bin\Debug\TreeDinamic.exe.config
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\TreeDinamic\bin\Debug\TreeDinamic.exe
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\TreeDinamic\bin\Debug\TreeDinamic.pdb
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\TreeDinamic\obj\Debug\TreeDinamic.csprojAssemblyReference.cache
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\TreeDinamic\obj\Debug\TreeDinamic.exe
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\TreeDinamic\obj\Debug\TreeDinamic.pdb

@@ -1,0 +1,6 @@
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\HeapProject\HeapProject\bin\Debug\HeapProject.exe.config
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\HeapProject\HeapProject\bin\Debug\HeapProject.exe
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\HeapProject\HeapProject\bin\Debug\HeapProject.pdb
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\HeapProject\HeapProject\obj\Debug\HeapProject.csprojAssemblyReference.cache
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\HeapProject\HeapProject\obj\Debug\HeapProject.exe
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\HeapProject\HeapProject\obj\Debug\HeapProject.pdb

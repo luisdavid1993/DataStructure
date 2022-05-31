@@ -1,0 +1,6 @@
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\QueueFila\bin\Debug\QueueFila.exe.config
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\QueueFila\bin\Debug\QueueFila.exe
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\QueueFila\bin\Debug\QueueFila.pdb
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\QueueFila\obj\Debug\QueueFila.csprojAssemblyReference.cache
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\QueueFila\obj\Debug\QueueFila.exe
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\QueueFila\obj\Debug\QueueFila.pdb

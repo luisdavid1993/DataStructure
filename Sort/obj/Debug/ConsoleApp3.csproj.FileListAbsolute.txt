@@ -1,0 +1,24 @@
+C:\Users\Luisd\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Luisd\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Luisd\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Luisd\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Luisd\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Luisd\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\Luisd\Desktop\Proyectos Visual Studio\Recursion\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Luisd\Desktop\Proyectos Visual Studio\Recursion\bin\Debug\ConsoleApp3.exe
+C:\Users\Luisd\Desktop\Proyectos Visual Studio\Recursion\bin\Debug\ConsoleApp3.pdb
+C:\Users\Luisd\Desktop\Proyectos Visual Studio\Recursion\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Luisd\Desktop\Proyectos Visual Studio\Recursion\obj\Debug\ConsoleApp3.exe
+C:\Users\Luisd\Desktop\Proyectos Visual Studio\Recursion\obj\Debug\ConsoleApp3.pdb
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\Recursion\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\Recursion\bin\Debug\ConsoleApp3.exe
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\Recursion\bin\Debug\ConsoleApp3.pdb
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\Recursion\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\Recursion\obj\Debug\ConsoleApp3.exe
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\Recursion\obj\Debug\ConsoleApp3.pdb
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\Sort\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\Sort\bin\Debug\ConsoleApp3.exe
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\Sort\bin\Debug\ConsoleApp3.pdb
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\Sort\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\Sort\obj\Debug\ConsoleApp3.exe
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\Sort\obj\Debug\ConsoleApp3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\FuncActionPredicate\FuncActionPredicate\bin\Debug\FuncActionPredicate.exe.config
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\FuncActionPredicate\FuncActionPredicate\bin\Debug\FuncActionPredicate.exe
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\FuncActionPredicate\FuncActionPredicate\bin\Debug\FuncActionPredicate.pdb
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\FuncActionPredicate\FuncActionPredicate\obj\Debug\FuncActionPredicate.csprojAssemblyReference.cache
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\FuncActionPredicate\FuncActionPredicate\obj\Debug\FuncActionPredicate.exe
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\FuncActionPredicate\FuncActionPredicate\obj\Debug\FuncActionPredicate.pdb

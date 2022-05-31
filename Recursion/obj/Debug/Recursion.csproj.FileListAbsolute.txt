@@ -1,0 +1,12 @@
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\Recursion\bin\Debug\Recursion.exe
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\Recursion\bin\Debug\Recursion.pdb
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\Recursion\obj\Debug\Recursion.csprojAssemblyReference.cache
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\Recursion\obj\Debug\Recursion.exe
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\Recursion\obj\Debug\Recursion.pdb
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\Recursion\bin\Debug\Recursion.exe
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\Recursion\bin\Debug\Recursion.pdb
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\Recursion\obj\Debug\Recursion.csprojAssemblyReference.cache
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\Recursion\obj\Debug\Recursion.exe
+C:\Users\Luisd\Desktop\Luis David\Cursos\DataStructure\Recursion\obj\Debug\Recursion.pdb

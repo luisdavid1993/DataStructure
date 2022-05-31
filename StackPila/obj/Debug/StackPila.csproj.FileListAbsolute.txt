@@ -1,0 +1,6 @@
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\StackPila\bin\Debug\StackPila.exe.config
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\StackPila\bin\Debug\StackPila.exe
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\StackPila\bin\Debug\StackPila.pdb
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\StackPila\obj\Debug\StackPila.csprojAssemblyReference.cache
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\StackPila\obj\Debug\StackPila.exe
+C:\Users\Luisd\OneDrive\Proyectos Visual Studio\DataStructure\StackPila\obj\Debug\StackPila.pdb
